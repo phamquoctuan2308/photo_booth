@@ -1,1 +1,1 @@
-# photo_booth
+# My Project
